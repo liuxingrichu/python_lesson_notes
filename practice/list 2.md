@@ -42,3 +42,28 @@ def has22(nums):
   else:
     return False
 		
+（3）展开嵌套的列表
+给定一个列表，其子项可由任意嵌套列表组成，将其展开成没有嵌套的列表
+
+答案：
+def flatten_list(in_list):
+    out_list = list()
+    for i in in_list:
+        if isinstance(i, list):
+            out_list.extend(flatten_list(i))
+        else:
+            out_list.append(i)
+    return out_list
+	
+测试用例：
+import unittest
+
+from core.main import flatten_list
+
+
+class PracticeTestCase(unittest.TestCase):
+	def test_flatten_list_01(self):
+        self.assertEquals(flatten_list([[1,2], 3, [], [2, [2, 3], 5]]), [1, 2, 3, 2, 2, 3, 5])
+
+    def test_flatten_list_02(self):
+        self.assertEquals(flatten_list([[], [[1, []]]]), [1])		
