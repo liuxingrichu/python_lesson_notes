@@ -5,7 +5,7 @@
 - [day001](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day001.md) 
 	- web框架的本质 字符串转字节 代码优化案例 Django的框架
 - [day002](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day002.md) 
-	- 安装 命令行操作 目录 pycharm操作 工程配置 html文件中，关联静态文件 函数功能示例 常见问题
+	- 安装 命令行操作 目录 pycharm操作 工程配置 关联静态文件 函数功能示例 常见问题
 - [day003](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day003.md) 
 	- 特有模板 请求生命周期 工程创建流程 数据管理 主机管理
 - [day004](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day004.md) 
@@ -17,10 +17,10 @@
 - [day007](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day007.md) 
 	- ajax基本知识
 - [day008](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day008.md) 
-	- ORM操作之多对多 作业
+	- ORM操作之多对多 主机管理与应用管理
 - [day009](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day009.md)
 	-  模板之母版、继承、导入、自定义函数
 - [day010](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day010.md)
 	- cookie的查看方式 设置 获取 jquery.cookie.js 主机管理
 - [day011](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day011.md)
-	-  
+	- session
