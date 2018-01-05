@@ -1,5 +1,5 @@
 - [配套代码](https://github.com/liuxingrichu/web_advanced)
-	- 在web_advanced仓库中
+	- web_advanced仓库
 
 ## 目录 ##
 - [day001](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day001.md) 
