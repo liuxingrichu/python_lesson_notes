@@ -23,4 +23,4 @@
 - [day010](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day010.md)
 	- cookie的查看方式 设置 获取 jquery.cookie.js 主机管理
 - [day011](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day011.md)
-	- 用户认证方式 session原理 session操作 
+	- 用户认证方式 session原理 session操作 通用配置 引擎配置
