@@ -24,3 +24,5 @@
 	- cookie的查看方式 设置 获取 jquery.cookie.js 主机管理
 - [day011](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day011.md)
 	- 用户认证方式 session原理 session操作 通用配置 引擎配置
+- [day012](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day012.md)
+	- XSS攻击 跨站请求伪造(CSRF)原理及作用 全局配置CSRF 局部配置CSRF用户数据提交方式
