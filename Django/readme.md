@@ -5,7 +5,7 @@
 - [day001](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day001.md) 
 	- web框架的本质 字符串转字节 代码优化案例 Django的框架
 - [day002](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day002.md) 
-	- 安装 命令行操作 目录 pycharm操作 工程配置 关联静态文件 函数功能示例 常见问题
+	- 安装 版本查询 命令行操作 目录 pycharm操作 工程配置 关联静态文件 函数功能示例 常见问题
 - [day003](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day003.md) 
 	- 特有模板 请求生命周期 工程创建流程 数据管理 主机管理
 - [day004](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day004.md) 
@@ -26,3 +26,5 @@
 	- 用户认证方式 session原理 session操作 通用配置 引擎配置
 - [day012](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day012.md)
 	- XSS攻击 跨站请求伪造(CSRF)原理及作用 全局配置CSRF 局部配置CSRF用户数据提交方式
+- [day013](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day013.md)
+	- 中间件之原理、作用、自定义、注册、流程
