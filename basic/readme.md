@@ -8,7 +8,7 @@
 - [day004](https://github.com/liuxingrichu/python_lesson_notes/blob/master/basic/day004.md)
 	- 字典 三级菜单 集合 文件 动态进度条打印 实现简单的shell sed替换功能
 - [day005](https://github.com/liuxingrichu/python_lesson_notes/blob/master/basic/day005.md)
-	- 
+	-  字符编码与转码 函数 局部变量与全局变量 递归函数 函数式编程 对有序的列表，使用递归函数实现二分法查找 	
 - [day006](https://github.com/liuxingrichu/python_lesson_notes/blob/master/basic/day006.md)
 	- 
 - [day007](https://github.com/liuxingrichu/python_lesson_notes/blob/master/basic/day007.md)
