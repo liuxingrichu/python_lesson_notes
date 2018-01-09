@@ -10,7 +10,7 @@
 - [day005](https://github.com/liuxingrichu/python_lesson_notes/blob/master/basic/day005.md)
 	-  字符编码与转码 函数 局部变量与全局变量 递归函数 函数式编程 对有序的列表，使用递归函数实现二分法查找 	
 - [day006](https://github.com/liuxingrichu/python_lesson_notes/blob/master/basic/day006.md)
-	- 
+	- lambda表达式 高阶函数 嵌套函数 内存回收机制 装饰器
 - [day007](https://github.com/liuxingrichu/python_lesson_notes/blob/master/basic/day007.md)
 	- 
 - [day008](https://github.com/liuxingrichu/python_lesson_notes/blob/master/basic/day008.md)
