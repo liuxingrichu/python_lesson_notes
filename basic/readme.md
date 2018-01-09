@@ -12,6 +12,6 @@
 - [day006](https://github.com/liuxingrichu/python_lesson_notes/blob/master/basic/day006.md)
 	- lambda表达式 高阶函数 嵌套函数 内存回收机制 装饰器
 - [day007](https://github.com/liuxingrichu/python_lesson_notes/blob/master/basic/day007.md)
-	- 
+	- 列表生成式 生成器 斐波那契数列 可迭代对象 迭代器 内置函数 编程规范
 - [day008](https://github.com/liuxingrichu/python_lesson_notes/blob/master/basic/day008.md)
 	- 
