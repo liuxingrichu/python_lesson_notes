@@ -9,5 +9,5 @@
 	- hashlib模块 hmac模块 logging模块 re模块 subprocess模块 commands模块 开发一个简单的python计算器
 - [day005](https://github.com/liuxingrichu/python_lesson_notes/blob/master/modules/day005.md)
 	- 第三方模块安装 pexpect模块 ftp交互的实例 
-- - [day006](https://github.com/liuxingrichu/python_lesson_notes/blob/master/modules/day006.md)
+- [day006](https://github.com/liuxingrichu/python_lesson_notes/blob/master/modules/day006.md)
 	- inspect模块 辅助定位 platform模块 
