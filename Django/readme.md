@@ -28,3 +28,5 @@
 	- XSS攻击 跨站请求伪造(CSRF)原理及作用 全局配置CSRF 局部配置CSRF用户数据提交方式
 - [day013](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day013.md)
 	- 中间件之原理、作用、自定义、注册、流程
+- [day014](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day014.md)
+	- 缓存之缓存方式、配置方式、应用场景
