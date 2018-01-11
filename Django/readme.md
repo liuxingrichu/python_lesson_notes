@@ -30,3 +30,5 @@
 	- 中间件之原理、作用、自定义、注册、流程
 - [day014](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day014.md)
 	- 缓存之缓存方式、配置方式、应用场景
+- [day015](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day015.md)
+	- 信号 应用场景 内置信号 内置信号操作 自定义信号
