@@ -10,4 +10,6 @@
 - [day005](https://github.com/liuxingrichu/python_lesson_notes/blob/master/modules/day005.md)
 	- 第三方模块安装 pexpect模块 ftp交互的实例 
 - [day006](https://github.com/liuxingrichu/python_lesson_notes/blob/master/modules/day006.md)
-	- inspect模块 辅助定位 platform模块 
+	- inspect模块 辅助定位 platform模块
+- [day007](https://github.com/liuxingrichu/python_lesson_notes/blob/master/modules/day007.md)
+	- numpy模块
