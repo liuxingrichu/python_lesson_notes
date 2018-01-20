@@ -34,3 +34,5 @@
 	- 信号 应用场景 内置信号 内置信号操作 自定义信号
 - [day016](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day016.md)
 	- Form 书写方式 验证用户请求 生成html标签 主机管理系统
+- [day017](https://github.com/liuxingrichu/python_lesson_notes/blob/master/Django/day017.md)
+	- model Form ModelForm
