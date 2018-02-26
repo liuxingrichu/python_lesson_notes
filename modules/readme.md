@@ -13,3 +13,5 @@
 	- inspect模块 辅助定位 platform模块
 - [day007](https://github.com/liuxingrichu/python_lesson_notes/blob/master/modules/day007.md)
 	- numpy模块
+- [day008](https://github.com/liuxingrichu/python_lesson_notes/blob/master/modules/day008.md)
+	- pydoc模块
