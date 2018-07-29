@@ -2,7 +2,7 @@
 1. [算法、回归、列表查找](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day001.md)
 2. [二分查找](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day002.md)
 3. [列表排序、冒泡排序](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day003.md)
-4. [选择排序]()
+4. [选择排序](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day004.md)
 5. [插入排序]()
 6. [快速排序]()
 7. [堆排序]()
