@@ -8,7 +8,7 @@
 7. [树、二叉树、堆排序](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day007.md)
 8. [归并排序、快速排序/堆排序/归并排序](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day008.md)
 9. [希尔排序（基数排序、桶排序）](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day009.md)
-10. []()
+10. [计数排序](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day010.md)
 11. []()
 
 
