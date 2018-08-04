@@ -9,28 +9,10 @@
 8. [归并排序、快速排序/堆排序/归并排序](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day008.md)
 9. [希尔排序（基数排序、桶排序）](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day009.md)
 10. [计数排序](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day010.md)
-11. []()
-
-
-
+11. [优先队列、内置模块heapq](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day011.md)
 
 
 4. [八皇后问题](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day00n.md)
-2. [冒泡 选择 插入排序]()
-3. [快排]()
-4. [堆排序]()
-5. [归并排序 希尔排序]()
-
-
-冒泡排序
-选择排序
-插入排序
-快速排序
-堆排序
-归并排序
-基数排序
-希尔排序
-桶排序
 
 
 
