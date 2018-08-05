@@ -10,6 +10,8 @@
 9. [希尔排序（基数排序、桶排序）](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day009.md)
 10. [计数排序](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day010.md)
 11. [优先队列、内置模块heapq](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day011.md)
+12. [二分查找+左右摇摆](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day012.md)
+13. [目标数为两数之和](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day013.md)
 
 
 4. [八皇后问题](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day00n.md)
