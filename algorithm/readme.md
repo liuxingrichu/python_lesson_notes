@@ -12,6 +12,8 @@
 11. [优先队列、内置模块heapq](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day011.md)
 12. [二分查找+左右摇摆](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day012.md)
 13. [目标数为两数之和](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day013.md)
+14. [数据结构、栈](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day014.md)
+15. [队列](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day015.md)
 
 
 4. [八皇后问题](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day00n.md)
