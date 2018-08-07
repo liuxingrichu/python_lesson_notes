@@ -14,6 +14,7 @@
 13. [目标数为两数之和](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day013.md)
 14. [数据结构、栈](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day014.md)
 15. [队列](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day015.md)
+16. [链表](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day016.md)
 
 
 4. [八皇后问题](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day00n.md)
