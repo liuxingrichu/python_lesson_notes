@@ -16,6 +16,8 @@
 15. [队列(广度优先)](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day015.md)
 16. [单链表、双链表](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day016.md)
 17. [集合与字典](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day017.md)
+18. [设计模式](day018.md)
+19. [设计模式六大原则、设计模式分类、简单工厂模式](day019.md)
 
 
 4. [八皇后问题](https://github.com/liuxingrichu/python_lesson_notes/blob/master/algorithm/day00n.md)
