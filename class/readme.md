@@ -7,5 +7,7 @@
 	- 面向对象的应用场景 普通方法 静态方法 类方法 属性方法 类的特殊成员方法 类的起源 类的创建过程
 - [day004](https://github.com/liuxingrichu/python_lesson_notes/blob/master/class/day004.md)
 	- 反射 异常处理
+- [day005](day005.md)
+	- 类中带self属性和不带self的属性
 
 
